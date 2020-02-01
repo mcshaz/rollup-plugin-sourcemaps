@@ -34,7 +34,7 @@
     "dist"
   ],
   "dependencies": {
-    "@rollup/pluginutils": "^3.0.1",
+    "@rollup/pluginutils": "^3.0.8",
     "source-map-resolve": "^0.5.3"
   },
   "devDependencies": {
